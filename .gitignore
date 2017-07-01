@@ -1,0 +1,4 @@
+.gradle/
+.idea/
+build/
+/src/main/kotlin/io/github/legosteen11/feedforreddit/config/MyConfig.kt
